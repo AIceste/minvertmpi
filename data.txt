@@ -1,0 +1,155 @@
+{'bin': './tp3_sequential', 'size': 4, 'durations': [1.463e-05], 'errors': [-8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [1.66e-05], 'errors': [-8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [2.5731e-05], 'errors': [-8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [1.463e-05, 1.523e-05], 'errors': [-8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [1.66e-05, 1.61e-05], 'errors': [-8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [2.5731e-05, 1.592e-05], 'errors': [-8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [1.463e-05, 1.523e-05, 1.409e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [1.66e-05, 1.61e-05, 1.92e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [2.5731e-05, 1.592e-05, 1.235e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [1.463e-05, 1.523e-05, 1.409e-05, 1.263e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [1.66e-05, 1.61e-05, 1.92e-05, 1.999e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [2.5731e-05, 1.592e-05, 1.235e-05, 2.434e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [3.16e-05], 'errors': [-8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [1.806e-05], 'errors': [-8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [2.474e-05], 'errors': [-8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [3.16e-05, 1.922e-05], 'errors': [-8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [1.806e-05, 1.838e-05], 'errors': [-8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [2.474e-05, 2.647e-05], 'errors': [-8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [3.16e-05, 1.922e-05, 1.445e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [1.806e-05, 1.838e-05, 1.248e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [2.474e-05, 2.647e-05, 2.056e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [3.16e-05, 1.922e-05, 1.445e-05, 1.482e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [1.806e-05, 1.838e-05, 1.248e-05, 2.008e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [2.474e-05, 2.647e-05, 2.056e-05, 2.137e-05], 'errors': [-8.88178e-16, -8.88178e-16, -8.88178e-16, -8.88178e-16]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [1.984e-05], 'errors': [0.0]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [2.48775], 'errors': [-7.27596e-12]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [26.8481], 'errors': [-7.85576e-11]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [1.984e-05, 1.06e-05], 'errors': [0.0, 0.0]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [2.48775, 2.50929], 'errors': [-7.27596e-12, -7.27596e-12]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [26.8481, 26.7052], 'errors': [-7.85576e-11, -7.85576e-11]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [1.984e-05, 1.06e-05, 2.037e-05], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [2.48775, 2.50929, 2.53909], 'errors': [-7.27596e-12, -7.27596e-12, -7.27596e-12]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [26.8481, 26.7052, 26.81], 'errors': [-7.85576e-11, -7.85576e-11, -7.85576e-11]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [1.984e-05, 1.06e-05, 2.037e-05, 1.955e-05], 'errors': [0.0, 0.0, 0.0, 0.0]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [2.48775, 2.50929, 2.53909, 2.5092], 'errors': [-7.27596e-12, -7.27596e-12, -7.27596e-12, -7.27596e-12]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [26.8481, 26.7052, 26.81, 26.623], 'errors': [-7.85576e-11, -7.85576e-11, -7.85576e-11, -7.85576e-11]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [2.013e-05], 'errors': [0.0]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [2.46486], 'errors': [-7.27596e-12]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [27.4661], 'errors': [-7.85576e-11]}
+{'bin': './tp3_sequential', 'size': 2100, 'durations': [308.922], 'errors': [-1.10595e-09]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [2.013e-05, 2.06e-05], 'errors': [0.0, 0.0]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [2.46486, 2.48891], 'errors': [-7.27596e-12, -7.27596e-12]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [27.4661, 26.3634], 'errors': [-7.85576e-11, -7.85576e-11]}
+{'bin': './tp3_sequential', 'size': 2100, 'durations': [308.922, 309.814], 'errors': [-1.10595e-09, -1.10595e-09]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [2.013e-05, 2.06e-05, 2.0569e-05], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [2.46486, 2.48891, 2.48032], 'errors': [-7.27596e-12, -7.27596e-12, -7.27596e-12]}
+{'bin': './tp3_sequential', 'size': 926, 'durations': [27.4661, 26.3634, 26.7627], 'errors': [-7.85576e-11, -7.85576e-11, -7.85576e-11]}
+{'bin': './tp3_sequential', 'size': 2100, 'durations': [308.922, 309.814, 308.957], 'errors': [-1.10595e-09, -1.10595e-09, -1.10595e-09]}
+{'bin': './tp3_sequential', 'size': 4, 'durations': [2.013e-05, 2.06e-05, 2.0569e-05, 1.958e-05], 'errors': [0.0, 0.0, 0.0, 0.0]}
+{'bin': './tp3_sequential', 'size': 420, 'durations': [2.46486, 2.48891, 2.48032, 2.45691], 'errors': [-7.27596e-12, -7.27596e-12, -7.27596e-12, -7.27596e-12]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 8, 'durations': [0.00030468], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 7, 'durations': [0.00019572], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 6, 'durations': [0.00018224], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 5, 'durations': [0.0001291], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 4, 'durations': [0.00014203], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 3, 'durations': [4.218e-05], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 2, 'durations': [2.652e-05], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 1, 'durations': [1.253e-05], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 8, 'durations': [0.0964599], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 8, 'durations': [0.000314291], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 7, 'durations': [0.00020025], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 6, 'durations': [0.0108657], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 5, 'durations': [0.000196801], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 4, 'durations': [8.9781e-05], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 3, 'durations': [0.00010078], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 2, 'durations': [0.00011804], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 1, 'durations': [1.233e-05], 'errors': [0.0]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 8, 'durations': [0.113604], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 7, 'durations': [0.105143], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 6, 'durations': [0.132667], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 5, 'durations': [0.15464], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 4, 'durations': [0.196024], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 3, 'durations': [0.249329], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 2, 'durations': [0.352513], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 1, 'durations': [0.656443], 'errors': [-4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 8, 'durations': [0.989826], 'errors': [2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 7, 'durations': [1.1151], 'errors': [2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 6, 'durations': [1.24762], 'errors': [2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 5, 'durations': [1.49786], 'errors': [2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 4, 'durations': [1.82555], 'errors': [2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 3, 'durations': [2.41663], 'errors': [2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 2, 'durations': [3.58642], 'errors': [2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 1, 'durations': [6.79393], 'errors': [2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 8, 'durations': [12.0891], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 7, 'durations': [13.2133], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 6, 'durations': [14.8222], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 5, 'durations': [17.4515], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 4, 'durations': [21.388], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 3, 'durations': [27.8521], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 2, 'durations': [40.9645], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 1, 'durations': [78.7095], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 8, 'durations': [0.000314291, 0.000239691], 'errors': [0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 7, 'durations': [0.00020025, 0.000319841], 'errors': [0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 6, 'durations': [0.0108657, 0.000190071], 'errors': [0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 5, 'durations': [0.000196801, 0.00021499], 'errors': [0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 4, 'durations': [8.9781e-05, 0.000185641], 'errors': [0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 3, 'durations': [0.00010078, 7.332e-05], 'errors': [0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 2, 'durations': [0.00011804, 3.715e-05], 'errors': [0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 1, 'durations': [1.233e-05, 1.285e-05], 'errors': [0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 8, 'durations': [0.113604, 0.0877028], 'errors': [-4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 7, 'durations': [0.105143, 0.122046], 'errors': [-4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 6, 'durations': [0.132667, 0.134662], 'errors': [-4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 5, 'durations': [0.15464, 0.142617], 'errors': [-4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 4, 'durations': [0.196024, 0.186335], 'errors': [-4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 3, 'durations': [0.249329, 0.239513], 'errors': [-4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 2, 'durations': [0.352513, 0.354879], 'errors': [-4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 1, 'durations': [0.656443, 0.654871], 'errors': [-4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 8, 'durations': [0.989826, 0.97631], 'errors': [2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 7, 'durations': [1.1151, 1.10343], 'errors': [2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 6, 'durations': [1.24762, 1.25787], 'errors': [2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 5, 'durations': [1.49786, 1.47766], 'errors': [2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 4, 'durations': [1.82555, 1.82243], 'errors': [2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 3, 'durations': [2.41663, 2.40719], 'errors': [2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 2, 'durations': [3.58642, 3.59293], 'errors': [2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 1, 'durations': [6.79393, 6.79601], 'errors': [2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 8, 'durations': [12.0891, 12.1077], 'errors': [-9.0904e-10, -9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 7, 'durations': [13.2133, 13.2192], 'errors': [-9.0904e-10, -9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 6, 'durations': [14.8222, 14.7539], 'errors': [-9.0904e-10, -9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 5, 'durations': [17.4515, 17.4513], 'errors': [-9.0904e-10, -9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 4, 'durations': [21.388, 21.3774], 'errors': [-9.0904e-10, -9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 3, 'durations': [27.8521, 27.9955], 'errors': [-9.0904e-10, -9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 2, 'durations': [40.9645, 40.8638], 'errors': [-9.0904e-10, -9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 1, 'durations': [78.7095, 78.6538], 'errors': [-9.0904e-10, -9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 8, 'durations': [0.000314291, 0.000239691, 0.000315761], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 7, 'durations': [0.00020025, 0.000319841, 0.00026491], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 6, 'durations': [0.0108657, 0.000190071, 0.00016693], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 5, 'durations': [0.000196801, 0.00021499, 0.000104201], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 4, 'durations': [8.9781e-05, 0.000185641, 0.000105241], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 3, 'durations': [0.00010078, 7.332e-05, 6.3081e-05], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 2, 'durations': [0.00011804, 3.715e-05, 3.383e-05], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 4, 'thread_count': 1, 'durations': [1.233e-05, 1.285e-05, 1.261e-05], 'errors': [0.0, 0.0, 0.0]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 8, 'durations': [0.113604, 0.0877028, 0.108773], 'errors': [-4.26326e-12, -4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 7, 'durations': [0.105143, 0.122046, 0.124755], 'errors': [-4.26326e-12, -4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 6, 'durations': [0.132667, 0.134662, 0.142318], 'errors': [-4.26326e-12, -4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 5, 'durations': [0.15464, 0.142617, 0.161241], 'errors': [-4.26326e-12, -4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 4, 'durations': [0.196024, 0.186335, 0.194055], 'errors': [-4.26326e-12, -4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 3, 'durations': [0.249329, 0.239513, 0.250504], 'errors': [-4.26326e-12, -4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 2, 'durations': [0.352513, 0.354879, 0.346114], 'errors': [-4.26326e-12, -4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 420, 'thread_count': 1, 'durations': [0.656443, 0.654871, 0.642906], 'errors': [-4.26326e-12, -4.26326e-12, -4.26326e-12]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 8, 'durations': [0.989826, 0.97631, 0.986504], 'errors': [2.54659e-11, 2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 7, 'durations': [1.1151, 1.10343, 1.09044], 'errors': [2.54659e-11, 2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 6, 'durations': [1.24762, 1.25787, 1.25345], 'errors': [2.54659e-11, 2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 5, 'durations': [1.49786, 1.47766, 1.48316], 'errors': [2.54659e-11, 2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 4, 'durations': [1.82555, 1.82243, 1.83167], 'errors': [2.54659e-11, 2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 3, 'durations': [2.41663, 2.40719, 2.3946], 'errors': [2.54659e-11, 2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 2, 'durations': [3.58642, 3.59293, 3.60052], 'errors': [2.54659e-11, 2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 926, 'thread_count': 1, 'durations': [6.79393, 6.79601, 6.8114], 'errors': [2.54659e-11, 2.54659e-11, 2.54659e-11]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 8, 'durations': [12.076], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 7, 'durations': [13.1333], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 6, 'durations': [14.7007], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 5, 'durations': [17.4371], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 4, 'durations': [21.1905], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 3, 'durations': [27.9015], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 2, 'durations': [40.6361], 'errors': [-9.0904e-10]}
+{'bin': './tp3_parallel', 'size': 2100, 'thread_count': 1, 'durations': [78.571], 'errors': [-9.0904e-10]}
